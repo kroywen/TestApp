@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">TestApp</string>
+    <string name="no_history">No history</string>
+    <string name="pick_date_from">From Date</string>
+    <string name="pick_date_to">To Date</string>
+    <string name="send">SEND</string>
+    <string name="amount">Amount: %s</string>
+    <string name="debit">Debit: %s</string>
+    <string name="credit">Credit: %s</string>
+    <string name="date">Date: %s</string>
+    <string name="please_wait">Please wait</string>
+
+</resources>
